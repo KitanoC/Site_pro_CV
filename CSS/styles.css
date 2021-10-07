@@ -1,0 +1,134 @@
+/********************************Tag section**********************************/
+
+body{
+    margin: 0%;
+    width: 100%;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ,sans-serif;
+}
+
+h1{
+    margin: 0%;
+    font-size: 100px;
+    font-family: 'Great Vibes', cursive;
+}
+
+h2{
+    margin: 0%;
+    font-size: 100px;
+    font-weight: 500;
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+h3{
+    font-size: 100px;
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+
+td{
+    padding: 5px 25px;
+}
+
+div{
+    background-color: #DEBA9D;
+}
+
+/********************************Class section**********************************/
+.top_pres{
+    font-size: 35px;
+}
+
+.top-container{
+    background-color: #DEBA9D;
+    padding-top: 120px;
+    position : relative;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+    width: 15%; 
+}
+.middle-container{
+    position: relative;
+    width: 100%;
+}
+
+.Photo_cv{
+    width: 25%;
+}
+
+.Computer_gif{
+    width: 15%;
+}
+.bottom-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.formation{
+    width: 15%;
+}
+
+.tableau_formation{
+    margin: auto;
+}
+
+.formation_texte{
+    font-size: 35px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 100px;
+    bottom: 380px;
+    width: 15%;
+}
+
+.competences{
+    margin: auto;
+}
+
+.logo_skill{
+    width: 100px;
+    height: 100px;
+}
+
+.Skill{
+    margin: auto;
+    width: 75%;
+    position: relative;
+    font-size: 35px;
+}
+
+.mountain{
+    position: relative;
+    height:100%;
+    width: 50%;
+}
+
+.Texte_CV{
+    width: 50%;
+    position: relative;
+    left: 25%;
+    font-size: 35px;
+}
+
+.logo{
+    width: 50px;
+    height: auto;
+    padding-left: 20px;
+}
+
+.contact_me{
+    margin: auto;
+}
+
+.Contact_me_logo{
+    width: 250px;
+    height: 250px;
+}
+/********************************Id section**********************************/
+
