@@ -224,7 +224,7 @@ div{
         position: absolute;
         right: 150px;
         top: 150px;
-        width: 25%; 
+        width: 15%; 
         display: block;
     }
     
@@ -232,7 +232,7 @@ div{
         position: absolute;
         left: 45px;
         bottom: 620px;
-        width: 25%;
+        width: 15%;
         display: block;
     }
 
